@@ -1,4 +1,4 @@
-# C° -> F° e F° -> C°
+# 🔥 C° -> F° e F° -> C° ❄️
 ## funções para prática de JS
 * Foram usadas funções para cada calculo;
 * Os resultados dos cálculos são concatenados com strings;
